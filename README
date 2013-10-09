@@ -1,0 +1,29 @@
+### What about this f... linux ###
+
+When you get access on a new linux machine, you like to know what is on it...
+this is a little tool to diagnose your box
+
+
+- Create a setup.py file to install easily the package
+http://foobar.lu/wp/2012/05/13/a-comprehensive-step-through-python-packaging-a-k-a-setup-scripts/
+
+
+## Todo list ##
+- get os name
+- checking free space
+- checking netwok
+	- get local ip
+	- ping 8.8.8.8
+- firewall
+	- checking opened ports
+- main appliances used
+	- ssh
+	- apache
+	- crontab
+- parsing logs to check odd behavior
+	- connexion (bruteforcing)
+	- errors logs
+- file system checking 
+	- find / -type -d perm 777
+	- /etc/login.defs or user account management
+	- suid flag	
