@@ -1,0 +1,4 @@
+- Create a setup.py file to install easily the package
+http://foobar.lu/wp/2012/05/13/a-comprehensive-step-through-python-packaging-a-k-a-setup-scripts/
+
+

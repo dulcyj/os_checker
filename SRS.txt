@@ -1,0 +1,19 @@
+## Todo list ##
+- get os name
+- checking free space
+- checking netwok
+	- get local ip
+	- ping 8.8.8.8
+- firewall
+	- checking opened ports
+- main appliances used
+	- ssh
+	- apache
+	- crontab
+- parsing logs to check odd behavior
+	- connexion (bruteforcing)
+	- errors logs
+- file system checking 
+	- find / -type -d perm 777
+	- /etc/login.defs or user account management
+	- suid flag	
